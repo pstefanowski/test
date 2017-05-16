@@ -46,3 +46,4 @@ rule failed: MRBTS-580/LNBTS-580/LNCEL-1/SIB-0 LNCEL(cellTechnology in range 'FD
 rule failed: MRBTS-580/LNBTS-580/LNCEL-1/SIB-0 SIB have acbNumRrcConnCellStop <= acbNumRrcConnCellStart
 rule failed: MRBTS-580/LNBTS-580/TRSNW-1 TRSNW(transportNwInUse = 'true') have (every LTAC(transportNwId = external TRSNW.transportNwId) exist)
 rule failed: MRBTS-580/MNL-1/MNLENT-1/CERTH-1/cmpCrlSrcIpAddressDN Object with distName 0.0.0.0 does not exists
+dsasadsad
